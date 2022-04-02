@@ -1,5 +1,5 @@
 This is my local file.
-<<<<<<< HEAD
-=======
+
+
 Remote code
->>>>>>> c9b8d9ec01258cc67dcc53fa05cf0fc67eb20178
+
