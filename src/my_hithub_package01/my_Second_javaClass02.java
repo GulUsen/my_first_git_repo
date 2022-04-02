@@ -3,7 +3,7 @@ package my_hithub_package01;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class my_githup_javaClass02 {
+public class my_Second_javaClass02 {
 
 
     /*

@@ -1,4 +1,9 @@
 Do not delete this file.
 This file is my importend for me.
+<<<<<<< HEAD
 
 
+=======
+vvdn,fa.,d/s.hgdsufdkfdsk
+hhgdgfdhfkds,fnf hklxchx,n
+>>>>>>> 8685630498b59c9eaa646e1f8a4a84f2e5f72c36
