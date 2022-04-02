@@ -1,0 +1,2 @@
+public class MyLocalClass02 {
+}
